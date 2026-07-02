@@ -3,7 +3,7 @@ game "gta5"
 
 description "Responsável por fazer as principais conexões entre os resources da mri Qbox"
 author "MRI QBOX Team"
-version "MRIQBOX_VERSION"
+version "__VERSION__"
 
 ui_page "web-side/index.html"
 

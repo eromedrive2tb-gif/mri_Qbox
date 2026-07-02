@@ -6,7 +6,7 @@ cfg = {}
 cfg.printidentifiers = true -- true para mostrar os identificadores no console
 
 cfg.vipmenu = {
-    Enable = true,
+    Enable = false,
     PaycheckInterval = 30,
     CashType = 'bank', -- money, bank, crypto
     CoinType = "R$",
@@ -26,7 +26,7 @@ cfg.vipmenu = {
 
 cfg.indestructibleProps = true -- true para ativar as props indestrutíveis
 
-cfg.dropitems = true           -- true para ativar o drop de items como props
+cfg.dropitems = false           -- true para ativar o drop de items como props
 cfg.dropitems_table = {
     money = 'prop_cash_pile_02',
     burger = 'prop_cs_burger_01',

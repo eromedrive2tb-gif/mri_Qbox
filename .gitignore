@@ -2,3 +2,8 @@ node_modules
 .idea
 dist
 modules/**/*.js
+sql_backup.lua
+missingmodels.lua
+auto_updater.lua
+discord-release.js
+.release.config.cjs
